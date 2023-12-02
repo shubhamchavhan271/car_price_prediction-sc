@@ -1,0 +1,43 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredPackages">
+        <value>
+          <list size="23">
+            <item index="0" class="java.lang.String" itemvalue="testi" />
+            <item index="1" class="java.lang.String" itemvalue="Real_Password" />
+            <item index="2" class="java.lang.String" itemvalue="sooo" />
+            <item index="3" class="java.lang.String" itemvalue="kasih" />
+            <item index="4" class="java.lang.String" itemvalue="jeemm" />
+            <item index="5" class="java.lang.String" itemvalue="fives" />
+            <item index="6" class="java.lang.String" itemvalue="uneed" />
+            <item index="7" class="java.lang.String" itemvalue="54321" />
+            <item index="8" class="java.lang.String" itemvalue="democ" />
+            <item index="9" class="java.lang.String" itemvalue="beuse" />
+            <item index="10" class="java.lang.String" itemvalue="gurua" />
+            <item index="11" class="java.lang.String" itemvalue="jacko" />
+            <item index="12" class="java.lang.String" itemvalue="1234" />
+            <item index="13" class="java.lang.String" itemvalue="54312" />
+            <item index="14" class="java.lang.String" itemvalue="trips" />
+            <item index="15" class="java.lang.String" itemvalue="inthe" />
+            <item index="16" class="java.lang.String" itemvalue="limak" />
+            <item index="17" class="java.lang.String" itemvalue="12345" />
+            <item index="18" class="java.lang.String" itemvalue="genoa" />
+            <item index="19" class="java.lang.String" itemvalue="45561" />
+            <item index="20" class="java.lang.String" itemvalue="repub" />
+            <item index="21" class="java.lang.String" itemvalue="cters" />
+            <item index="22" class="java.lang.String" itemvalue="thats" />
+          </list>
+        </value>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="hackkkk.ipv4ipv6import" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>

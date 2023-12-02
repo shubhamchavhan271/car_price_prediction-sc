@@ -1,0 +1,21 @@
+/* Reset default margin, padding, and box-sizing */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* Define a class for a dark background */
+.bg-dark {
+    background-color: #75767B;
+}
+
+/* Define a class for margin-top */
+.mt-50 {
+    margin-top: 50px;
+}
+
+/* Example for an element with ID 'canvas' */
+#canvas {
+    border: 2px solid black;
+}
